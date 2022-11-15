@@ -8,9 +8,9 @@
 ## Contents
 
 - The **short manual** file contains the basic instructions to play
-- The long_manual.pdf is necessary to play (specially if you play without an specialist preventive conservation instructor)
-- The **front** file contains images for the front part of the cards. The licenses for the images allow reproduction. The authors are listed in imagelicenses.txt
-- The **back** file contains images for the backs, they can be assigned to any front, or assigned to the front of the same number if you want to reproduce the game as sold.
+- The long_manual.pdf contains the heritage science theory that is necessary to play (specially if you play without an specialist preventive conservation instructor)
+- The **front** folder contains images for the front part of the cards. The licenses for the images allow reproduction. The authors are listed in imagelicenses.txt
+- The **back** folder contains images for the backs, they can be assigned to any front, or assigned to the front of the same number if you want to reproduce the game as sold.
 
 ## Intro to the game
 
