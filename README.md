@@ -1,3 +1,5 @@
+![title](/background.png)
+
 # The Game of Heritage Destruction
 
 > :warning: It has been brought to my attention that some of the images do not have a Creative Commons license (e.g. the barbie doll), even though being labeled as such in the websites where I got them from. I will replace them by new images when I have an occasion. 
