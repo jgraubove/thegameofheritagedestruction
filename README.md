@@ -7,7 +7,7 @@ Version 2.0 is here! After the game was put out of production because of the pre
 ## Contents
 
 - "printable game.pdf" is what it says on the tin. It should be printed double sided. 
-- The **short manual** file contains the basic instructions to play
+- The **booklet** zip file contains the basic instructions to play
 - The "long_manual.pdf" contains the heritage science theory that is necessary to play (specially if you play without an specialist preventive conservation instructor)
 
 ## Intro to the game
