@@ -4,6 +4,8 @@
 
 Version 2.0 is here! After the game was put out of production because of the presence of copyrighted images, we have renewed the whole deck with CC0 images, many from the collections of Godington in Kent, generously photographed by Orianna Davey. The resulting game is also CC0, and a free print-at-home version is available below, as well as the necessary source files to edit it.
 
+It can be purchased in [GameCrafter](https://www.thegamecrafter.com/games/the-game-of-heritage-destruction).
+
 ## Contents
 
 - "printable game.pdf" is what it says on the tin. It should be printed double sided. 
