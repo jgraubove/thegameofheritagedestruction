@@ -14,6 +14,31 @@ It can be purchased in [GameCrafter](https://www.thegamecrafter.com/games/the-ga
 
 ## Intro to the game
 
+In the Game of Heritage Destruction, two or more teams (or single players) compete to destroy as much heritage as possible.
+
+It is an educational game, designed to be used in a classroom. The experience is enjoyed to the fullest if one of the players is familiar with preventive conservation principles and can teach the other players. It is also a debating game, where players must persuade each other using conservation knowledge. Players gain an advantage by learning more about the degradation of heritage materials.
+
+It has been created as an educational tool by Josep Grau-Bové at the UCL [Institute for Sustainable Heritage](https://www.ucl.ac.uk/bartlett/heritage/). It is published here as a beta-version.
+
+Players will learn:
+
+- The main [agents of deterioration ](https://www.canada.ca/en/conservation-institute/services/agents-deterioration.html)
+- How pollutants, dust, light and humidity interact with a diversity of historic materials
+- The difference between risks (a probability of deterioration) and continuous processes (a rate of deterioration)
+- How the perceived damage depends on the value of the object
+
+**License and Free Digital Copy**
+
+The game is distributed under a CC0 license. All the images used have the same license. The source files and a print-at-home version are available here:  [https://github.com/jgraubove/thegameofheritagedestruction](https://github.com/jgraubove/thegameofheritagedestruction). 
+
+It is sold at the minimum cost allowed by the platform. 
+
+**Images and Special Thanks**
+
+Many of the images come from Godington House, Kent, generously photographed by Orianna Devey. Thanks also go to the colleagues who have supported and used the game in their teaching, specially Katherine Curran, Fabiana Portoni and Pakhee Kumar 
+
+## I wrote this article for ICON magazine explaining my motivation
+
 If there’s something I didn’t expect from 2020, it is the opportunity to destroy some heritage from the comfort of home. I created the Game of Heritage Destruction in 2017, to use it in teaching. The early days of lockdown gave me the time to make it presentable. 
 
 The game originated from a simple idea. I am fascinated with the notion that each material responds in a different way to each agent of deterioration. In some ways, this idea makes life simple. One can imagine a gigantic table, with materials – paper, leather, stone, gold – on one side, and agents of deterioration – pollutants, heat, moisture, vandalism – on the other. Then, the job of the heritage scientist becomes picking an empty square at random and filling it. What are the effects of mould on pearls? How do earthquakes affect cellulose?
